@@ -1,0 +1,6 @@
+services:
+  - type: web
+    runtime: static
+    name: trench-chimps-store-demo
+    buildCommand: echo "Static design demo, no build step"
+    staticPublishPath: public
