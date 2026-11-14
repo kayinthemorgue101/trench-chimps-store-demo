@@ -2,5 +2,5 @@ services:
   - type: web
     runtime: static
     name: trench-chimps-store-demo
-    buildCommand: echo "Static design demo, no build step"
+    buildCommand: python3 scripts/sync_catalog.py || python scripts/sync_catalog.py
     staticPublishPath: public
