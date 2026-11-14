@@ -1,0 +1,2019 @@
+{
+  "syncedAt": "2026-11-14T20:26:05.428689+00:00",
+  "source": "https://store.trenchchimps.com/products.json",
+  "storeUrl": "https://store.trenchchimps.com",
+  "currency": "USD",
+  "shop": {
+    "name": "Treehouse Shop",
+    "city": "Gainesville",
+    "province": "Georgia",
+    "country": "US",
+    "domain": "store.trenchchimps.com",
+    "shipsTo": [
+      "US"
+    ],
+    "productCount": 6
+  },
+  "links": {
+    "store": "https://store.trenchchimps.com/",
+    "contact": "https://store.trenchchimps.com/pages/contact",
+    "shipping": "https://store.trenchchimps.com/policies/shipping-policy",
+    "refund": "https://store.trenchchimps.com/policies/refund-policy",
+    "privacy": "https://store.trenchchimps.com/policies/privacy-policy",
+    "terms": "https://store.trenchchimps.com/policies/terms-of-service",
+    "account": "https://store.trenchchimps.com/account/login",
+    "website": "https://trenchchimps.com/",
+    "x": "https://x.com/trenchchimps",
+    "opensea": "https://opensea.io/collection/trench-chimps"
+  },
+  "policies": {
+    "shipping": [
+      "Trench Store ships within the United States, including Alaska, Hawaii, and Puerto Rico. Shipping options and costs are shown at checkout.",
+      "Our apparel is printed to order. Orders typically ship within 2\u20134 days. Delivery time is additional and depends on the carrier and destination. We\u2019ll email tracking when your order ships.",
+      "Please double-check your shipping address before placing your order. If you need to correct it or have a delivery issue, contact us through the store\u2019s Contact page with your order number."
+    ],
+    "returns": [
+      "Trench Store apparel is printed to order. We do not accept returns or exchanges for a change of mind or for a size or color selected at checkout. Please check your selections before ordering.",
+      "If your order arrives damaged, defective, misprinted, or different from what you ordered, contact us through the store\u2019s Contact page within 30 days of delivery. Include your order number, a description of the issue, and photos if available. We\u2019ll review the issue and follow up with next steps."
+    ]
+  },
+  "categoryRules": {
+    "hoodies": "Title contains hoodie, or the description says hooded.",
+    "tees": "Title contains tee or t-shirt.",
+    "womens": "Title or handle contains women.",
+    "kids": "Title or handle contains youth or kid.",
+    "rooted-different": "Title or handle contains Rooted Different.",
+    "note": "The Shopify store does not publish these as collections. Grouping is from product wording only."
+  },
+  "badges": {
+    "new": "published_at within 30 days of sync",
+    "soldOut": "no variant has available=true",
+    "limited": "tag or title contains limited"
+  },
+  "products": [
+    {
+      "id": 15505798496346,
+      "handle": "women-s-wen-moon-tee",
+      "title": "Women\u2019s Wen Moon Tee",
+      "url": "https://store.trenchchimps.com/products/women-s-wen-moon-tee",
+      "vendor": "Treehouse Shop",
+      "productType": "",
+      "tags": [],
+      "publishedAt": "2026-11-12T21:21:44-05:00",
+      "createdAt": "2026-11-12T21:21:37-05:00",
+      "updatedAt": "2026-11-14T15:24:49-05:00",
+      "categories": [
+        "tees",
+        "womens"
+      ],
+      "description": [
+        "The Wen Moon graphic on our fitted Bella + Canvas women\u2019s tee. Available in White and Dark Grey Heather. This tee runs small. Check the size chart and consider sizing up."
+      ],
+      "style": [
+        "Bella 6004 Ladies' The Favorite T-Shirt"
+      ],
+      "details": [
+        "4.2 oz.,",
+        "100% combed and ringspun cotton; 30 singles",
+        "Ash is 99% combed ringspun cotton, 1% polyester",
+        "Athletic Heather and Black Heather are 90% cotton/10% polyester",
+        "All other Heather/Blend colors are 52% combed ringspun cotton, 48% polyester",
+        "Shoulder taping; slim fit",
+        "Sideseamed; fitted sleeves",
+        "Longer body length",
+        "Tear away label",
+        "Easy to remove label",
+        "High-density Airlume cotton makes this a dream to print on!",
+        "This product runs small, we recommend sizing up - call or chat with us for help determining sizing."
+      ],
+      "sizeChart": {
+        "headers": [
+          "Size",
+          "Body length",
+          "Full body length",
+          "Body width",
+          "Sleeve length"
+        ],
+        "rows": [
+          [
+            "S",
+            "26.25\"",
+            "26.25\"",
+            "15.75\"",
+            "6.25\""
+          ],
+          [
+            "M",
+            "26.75\"",
+            "26.75\"",
+            "16.75\"",
+            "6.5\""
+          ],
+          [
+            "L",
+            "27.25\"",
+            "27.25\"",
+            "17.75\"",
+            "6.75\""
+          ],
+          [
+            "XL",
+            "28\"",
+            "28\"",
+            "18.5\"",
+            "7.25\""
+          ],
+          [
+            "2XL",
+            "28.5\"",
+            "28.5\"",
+            "19.5\"",
+            "7.5\""
+          ]
+        ]
+      },
+      "colors": [
+        "Drk Grey Heather",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "priceMin": 21.99,
+      "priceMax": 22.99,
+      "available": true,
+      "isNew": true,
+      "limited": false,
+      "images": [
+        {
+          "id": 43778973466714,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/womens-wen-moon-white-lifestyle-mockup.png?v=1794588692",
+          "alt": "",
+          "width": 1254,
+          "height": 1254,
+          "view": "lifestyle",
+          "colors": [
+            "White"
+          ]
+        },
+        {
+          "id": 43771275509850,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/womens-wen-moon-white-gray-background.png?v=1794570541",
+          "alt": "",
+          "width": 1254,
+          "height": 1254,
+          "view": "photo",
+          "colors": [
+            "White"
+          ]
+        },
+        {
+          "id": 43771197423706,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4076119_605097_82_FRONT_fdb0e8e2-4aeb-4e6b-97d5-743e5f5325de.jpg?v=1794570371",
+          "alt": "",
+          "width": 3200,
+          "height": 3200,
+          "view": "front",
+          "colors": [
+            "Drk Grey Heather"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 68062152982618,
+          "title": "Drk Grey Heather / S",
+          "sku": "19g61mweckcbl",
+          "color": "Drk Grey Heather",
+          "size": "S",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4076119_605097_82_FRONT_fdb0e8e2-4aeb-4e6b-97d5-743e5f5325de.jpg?v=1794570371"
+        },
+        {
+          "id": 68062153015386,
+          "title": "Drk Grey Heather / M",
+          "sku": "19g61mweckcbm",
+          "color": "Drk Grey Heather",
+          "size": "M",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4076119_605097_82_FRONT_fdb0e8e2-4aeb-4e6b-97d5-743e5f5325de.jpg?v=1794570371"
+        },
+        {
+          "id": 68062153048154,
+          "title": "Drk Grey Heather / L",
+          "sku": "19g61mweckcbn",
+          "color": "Drk Grey Heather",
+          "size": "L",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4076119_605097_82_FRONT_fdb0e8e2-4aeb-4e6b-97d5-743e5f5325de.jpg?v=1794570371"
+        },
+        {
+          "id": 68062153080922,
+          "title": "Drk Grey Heather / XL",
+          "sku": "19g61mweckcbo",
+          "color": "Drk Grey Heather",
+          "size": "XL",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4076119_605097_82_FRONT_fdb0e8e2-4aeb-4e6b-97d5-743e5f5325de.jpg?v=1794570371"
+        },
+        {
+          "id": 68062153113690,
+          "title": "Drk Grey Heather / 2XL",
+          "sku": "19g61mweckcbp",
+          "color": "Drk Grey Heather",
+          "size": "2XL",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4076119_605097_82_FRONT_fdb0e8e2-4aeb-4e6b-97d5-743e5f5325de.jpg?v=1794570371"
+        },
+        {
+          "id": 68062153146458,
+          "title": "White / S",
+          "sku": "19g61mweckcbq",
+          "color": "White",
+          "size": "S",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/womens-wen-moon-white-gray-background.png?v=1794570541"
+        },
+        {
+          "id": 68062153179226,
+          "title": "White / M",
+          "sku": "19g61mweckcbr",
+          "color": "White",
+          "size": "M",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/womens-wen-moon-white-gray-background.png?v=1794570541"
+        },
+        {
+          "id": 68062153211994,
+          "title": "White / L",
+          "sku": "19g61mweckcbs",
+          "color": "White",
+          "size": "L",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/womens-wen-moon-white-gray-background.png?v=1794570541"
+        },
+        {
+          "id": 68062153244762,
+          "title": "White / XL",
+          "sku": "19g61mweckcbt",
+          "color": "White",
+          "size": "XL",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/womens-wen-moon-white-gray-background.png?v=1794570541"
+        },
+        {
+          "id": 68062153277530,
+          "title": "White / 2XL",
+          "sku": "19g61mweckcbu",
+          "color": "White",
+          "size": "2XL",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/womens-wen-moon-white-gray-background.png?v=1794570541"
+        }
+      ]
+    },
+    {
+      "id": 15505626792026,
+      "handle": "youth-tc-tee",
+      "title": "Youth TC Tee",
+      "url": "https://store.trenchchimps.com/products/youth-tc-tee",
+      "vendor": "Treehouse Shop",
+      "productType": "",
+      "tags": [],
+      "publishedAt": "2026-11-12T19:25:41-05:00",
+      "createdAt": "2026-11-12T19:22:20-05:00",
+      "updatedAt": "2026-11-14T15:24:49-05:00",
+      "categories": [
+        "tees",
+        "kids"
+      ],
+      "description": [],
+      "style": [
+        "Bella + Canvas 3001YCVC Youth CVC Jersey Tee"
+      ],
+      "details": [
+        "3.6 oz./yd\u00b2 (US)",
+        "7 oz./L yd (CA)",
+        "52% Airlume combed and ring-spun cotton, 48% polyester, 32 singles",
+        "Athletic Heather & Black Heather are 90% Airlume combed and ring-spun cotton, 10% polyester",
+        "Pre-shrunk",
+        "Retail fit",
+        "Unisex sizing",
+        "Side seams",
+        "Tear away label"
+      ],
+      "sizeChart": {
+        "headers": [
+          "Size",
+          "Body length",
+          "Body width"
+        ],
+        "rows": [
+          [
+            "S",
+            "20 7/8\"",
+            "15 1/4\""
+          ],
+          [
+            "M",
+            "22 1/8\"",
+            "16 1/4\""
+          ],
+          [
+            "L",
+            "23 3/8\"",
+            "17 1/4\""
+          ],
+          [
+            "XL",
+            "24 3/8\"",
+            "18 1/4\""
+          ]
+        ]
+      },
+      "colors": [
+        "Dark Grey Heather",
+        "Heather Midnight Navy",
+        "Solid Black Blend"
+      ],
+      "sizes": [
+        "YS",
+        "YM",
+        "YL",
+        "YXL"
+      ],
+      "priceMin": 17.0,
+      "priceMax": 17.0,
+      "available": true,
+      "isNew": true,
+      "limited": false,
+      "images": [
+        {
+          "id": 43757352452186,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/youth-tc-tee-dark-grey-heather-lifestyle-mockup.png?v=1794529450",
+          "alt": "",
+          "width": 1254,
+          "height": 1254,
+          "view": "lifestyle",
+          "colors": [
+            "Dark Grey Heather"
+          ]
+        },
+        {
+          "id": 43757296091226,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071761_604845_09_FRONT.jpg?v=1794529349",
+          "alt": "",
+          "width": 3200,
+          "height": 3200,
+          "view": "front",
+          "colors": [
+            "Dark Grey Heather"
+          ]
+        },
+        {
+          "id": 43757296156762,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071763_604845_02_FRONT.jpg?v=1794529349",
+          "alt": "",
+          "width": 3200,
+          "height": 3200,
+          "view": "front",
+          "colors": [
+            "Heather Midnight Navy"
+          ]
+        },
+        {
+          "id": 43757296222298,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071765_604845_51_FRONT.jpg?v=1794529349",
+          "alt": "",
+          "width": 3200,
+          "height": 3200,
+          "view": "front",
+          "colors": [
+            "Solid Black Blend"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 68061681221722,
+          "title": "Dark Grey Heather / YS",
+          "sku": "19g61mwe7x53g",
+          "color": "Dark Grey Heather",
+          "size": "YS",
+          "price": 17.0,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071761_604845_09_FRONT.jpg?v=1794529349"
+        },
+        {
+          "id": 68061681254490,
+          "title": "Dark Grey Heather / YM",
+          "sku": "19g61mwe7x53h",
+          "color": "Dark Grey Heather",
+          "size": "YM",
+          "price": 17.0,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071761_604845_09_FRONT.jpg?v=1794529349"
+        },
+        {
+          "id": 68061681287258,
+          "title": "Dark Grey Heather / YL",
+          "sku": "19g61mwe7x53i",
+          "color": "Dark Grey Heather",
+          "size": "YL",
+          "price": 17.0,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071761_604845_09_FRONT.jpg?v=1794529349"
+        },
+        {
+          "id": 68061681320026,
+          "title": "Dark Grey Heather / YXL",
+          "sku": "19g61mwe7x53j",
+          "color": "Dark Grey Heather",
+          "size": "YXL",
+          "price": 17.0,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071761_604845_09_FRONT.jpg?v=1794529349"
+        },
+        {
+          "id": 68061681352794,
+          "title": "Heather Midnight Navy / YS",
+          "sku": "19g61mwe7x53k",
+          "color": "Heather Midnight Navy",
+          "size": "YS",
+          "price": 17.0,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071763_604845_02_FRONT.jpg?v=1794529349"
+        },
+        {
+          "id": 68061681385562,
+          "title": "Heather Midnight Navy / YM",
+          "sku": "19g61mwe7x53l",
+          "color": "Heather Midnight Navy",
+          "size": "YM",
+          "price": 17.0,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071763_604845_02_FRONT.jpg?v=1794529349"
+        },
+        {
+          "id": 68061681418330,
+          "title": "Heather Midnight Navy / YL",
+          "sku": "19g61mwe7x53m",
+          "color": "Heather Midnight Navy",
+          "size": "YL",
+          "price": 17.0,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071763_604845_02_FRONT.jpg?v=1794529349"
+        },
+        {
+          "id": 68061681451098,
+          "title": "Heather Midnight Navy / YXL",
+          "sku": "19g61mwe7x53n",
+          "color": "Heather Midnight Navy",
+          "size": "YXL",
+          "price": 17.0,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071763_604845_02_FRONT.jpg?v=1794529349"
+        },
+        {
+          "id": 68061681483866,
+          "title": "Solid Black Blend / YS",
+          "sku": "19g61mwe7x53o",
+          "color": "Solid Black Blend",
+          "size": "YS",
+          "price": 17.0,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071765_604845_51_FRONT.jpg?v=1794529349"
+        },
+        {
+          "id": 68061681516634,
+          "title": "Solid Black Blend / YM",
+          "sku": "19g61mwe7x53p",
+          "color": "Solid Black Blend",
+          "size": "YM",
+          "price": 17.0,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071765_604845_51_FRONT.jpg?v=1794529349"
+        },
+        {
+          "id": 68061681549402,
+          "title": "Solid Black Blend / YL",
+          "sku": "19g61mwe7x53q",
+          "color": "Solid Black Blend",
+          "size": "YL",
+          "price": 17.0,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071765_604845_51_FRONT.jpg?v=1794529349"
+        },
+        {
+          "id": 68061681582170,
+          "title": "Solid Black Blend / YXL",
+          "sku": "19g61mwe7x53r",
+          "color": "Solid Black Blend",
+          "size": "YXL",
+          "price": 17.0,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071765_604845_51_FRONT.jpg?v=1794529349"
+        }
+      ]
+    },
+    {
+      "id": 15475765444698,
+      "handle": "tc-tee-women",
+      "title": "TC Tee Women",
+      "url": "https://store.trenchchimps.com/products/tc-tee-women",
+      "vendor": "Treehouse Shop",
+      "productType": "",
+      "tags": [],
+      "publishedAt": "2026-11-12T18:59:02-05:00",
+      "createdAt": "2026-11-01T10:59:46-05:00",
+      "updatedAt": "2026-11-14T15:24:49-05:00",
+      "categories": [
+        "tees",
+        "womens"
+      ],
+      "description": [],
+      "style": [
+        "Bella 6004 Ladies' The Favorite T-Shirt"
+      ],
+      "details": [
+        "4.2 oz.,",
+        "100% combed and ringspun cotton; 30 singles",
+        "Ash is 99% combed ringspun cotton, 1% polyester",
+        "Athletic Heather and Black Heather are 90% cotton/10% polyester",
+        "All other Heather/Blend colors are 52% combed ringspun cotton, 48% polyester",
+        "Shoulder taping; slim fit",
+        "Sideseamed; fitted sleeves",
+        "Longer body length",
+        "Tear away label",
+        "Easy to remove label",
+        "High-density Airlume cotton makes this a dream to print on!",
+        "This product runs small, we recommend sizing up - call or chat with us for help determining sizing."
+      ],
+      "sizeChart": {
+        "headers": [
+          "Size",
+          "Body length",
+          "Full body length",
+          "Body width",
+          "Sleeve length"
+        ],
+        "rows": [
+          [
+            "S",
+            "26.25\"",
+            "26.25\"",
+            "15.75\"",
+            "6.25\""
+          ],
+          [
+            "M",
+            "26.75\"",
+            "26.75\"",
+            "16.75\"",
+            "6.5\""
+          ],
+          [
+            "L",
+            "27.25\"",
+            "27.25\"",
+            "17.75\"",
+            "6.75\""
+          ],
+          [
+            "XL",
+            "28\"",
+            "28\"",
+            "18.5\"",
+            "7.25\""
+          ],
+          [
+            "2XL",
+            "28.5\"",
+            "28.5\"",
+            "19.5\"",
+            "7.5\""
+          ]
+        ]
+      },
+      "colors": [
+        "Deep Heather",
+        "Heather Navy",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "priceMin": 21.99,
+      "priceMax": 22.99,
+      "available": true,
+      "isNew": true,
+      "limited": false,
+      "images": [
+        {
+          "id": 43757547061338,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/womens-tc-tee-deep-heather-lifestyle-v4.png?v=1794530177",
+          "alt": "",
+          "width": 1254,
+          "height": 1254,
+          "view": "lifestyle",
+          "colors": [
+            "Deep Heather"
+          ]
+        },
+        {
+          "id": 43757532872794,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3634227_580121_32_FRONT_fb811b88-b799-435f-92a5-bc76e63260f5.jpg?v=1794530124",
+          "alt": "",
+          "width": 3200,
+          "height": 3200,
+          "view": "front",
+          "colors": [
+            "Deep Heather"
+          ]
+        },
+        {
+          "id": 43757532938330,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071371_580121_29_FRONT_5a8b685b-5e29-41fd-a25f-23d4741fd3bb.jpg?v=1794530124",
+          "alt": "",
+          "width": 3200,
+          "height": 3200,
+          "view": "front",
+          "colors": [
+            "Heather Navy"
+          ]
+        },
+        {
+          "id": 43758761902170,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074654_580121_00_FRONT.jpg?v=1794534992",
+          "alt": "",
+          "width": 1254,
+          "height": 1254,
+          "view": "front",
+          "colors": [
+            "White"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 67931725463642,
+          "title": "Deep Heather / S",
+          "sku": "19g61mvy0lpfa",
+          "color": "Deep Heather",
+          "size": "S",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3634227_580121_32_FRONT_fb811b88-b799-435f-92a5-bc76e63260f5.jpg?v=1794530124"
+        },
+        {
+          "id": 67931725496410,
+          "title": "Deep Heather / M",
+          "sku": "19g61mvy0lpfb",
+          "color": "Deep Heather",
+          "size": "M",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3634227_580121_32_FRONT_fb811b88-b799-435f-92a5-bc76e63260f5.jpg?v=1794530124"
+        },
+        {
+          "id": 67931725529178,
+          "title": "Deep Heather / L",
+          "sku": "19g61mvy0lpfc",
+          "color": "Deep Heather",
+          "size": "L",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3634227_580121_32_FRONT_fb811b88-b799-435f-92a5-bc76e63260f5.jpg?v=1794530124"
+        },
+        {
+          "id": 67931725561946,
+          "title": "Deep Heather / XL",
+          "sku": "19g61mvy0lpfd",
+          "color": "Deep Heather",
+          "size": "XL",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3634227_580121_32_FRONT_fb811b88-b799-435f-92a5-bc76e63260f5.jpg?v=1794530124"
+        },
+        {
+          "id": 67931725594714,
+          "title": "Deep Heather / 2XL",
+          "sku": "19g61mvy0lpfe",
+          "color": "Deep Heather",
+          "size": "2XL",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3634227_580121_32_FRONT_fb811b88-b799-435f-92a5-bc76e63260f5.jpg?v=1794530124"
+        },
+        {
+          "id": 68061567549530,
+          "title": "Heather Navy / S",
+          "sku": "19g61mwe7icjt",
+          "color": "Heather Navy",
+          "size": "S",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071371_580121_29_FRONT_5a8b685b-5e29-41fd-a25f-23d4741fd3bb.jpg?v=1794530124"
+        },
+        {
+          "id": 68061567582298,
+          "title": "Heather Navy / M",
+          "sku": "19g61mwe7icju",
+          "color": "Heather Navy",
+          "size": "M",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071371_580121_29_FRONT_5a8b685b-5e29-41fd-a25f-23d4741fd3bb.jpg?v=1794530124"
+        },
+        {
+          "id": 68061567615066,
+          "title": "Heather Navy / L",
+          "sku": "19g61mwe7icjv",
+          "color": "Heather Navy",
+          "size": "L",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071371_580121_29_FRONT_5a8b685b-5e29-41fd-a25f-23d4741fd3bb.jpg?v=1794530124"
+        },
+        {
+          "id": 68061567647834,
+          "title": "Heather Navy / XL",
+          "sku": "19g61mwe7icjw",
+          "color": "Heather Navy",
+          "size": "XL",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071371_580121_29_FRONT_5a8b685b-5e29-41fd-a25f-23d4741fd3bb.jpg?v=1794530124"
+        },
+        {
+          "id": 68061567680602,
+          "title": "Heather Navy / 2XL",
+          "sku": "19g61mwe7icjx",
+          "color": "Heather Navy",
+          "size": "2XL",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4071371_580121_29_FRONT_5a8b685b-5e29-41fd-a25f-23d4741fd3bb.jpg?v=1794530124"
+        },
+        {
+          "id": 68061973315674,
+          "title": "White / S",
+          "sku": "19g61mweara8r",
+          "color": "White",
+          "size": "S",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074654_580121_00_FRONT.jpg?v=1794534992"
+        },
+        {
+          "id": 68061973348442,
+          "title": "White / M",
+          "sku": "19g61mweara8s",
+          "color": "White",
+          "size": "M",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074654_580121_00_FRONT.jpg?v=1794534992"
+        },
+        {
+          "id": 68061973381210,
+          "title": "White / L",
+          "sku": "19g61mweara8t",
+          "color": "White",
+          "size": "L",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074654_580121_00_FRONT.jpg?v=1794534992"
+        },
+        {
+          "id": 68061973413978,
+          "title": "White / XL",
+          "sku": "19g61mweara8u",
+          "color": "White",
+          "size": "XL",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074654_580121_00_FRONT.jpg?v=1794534992"
+        },
+        {
+          "id": 68061973446746,
+          "title": "White / 2XL",
+          "sku": "19g61mweara8v",
+          "color": "White",
+          "size": "2XL",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074654_580121_00_FRONT.jpg?v=1794534992"
+        }
+      ]
+    },
+    {
+      "id": 15475765543002,
+      "handle": "rooted-different",
+      "title": "Rooted Different Hoodie",
+      "url": "https://store.trenchchimps.com/products/rooted-different",
+      "vendor": "Treehouse Shop",
+      "productType": "",
+      "tags": [],
+      "publishedAt": "2026-11-12T15:16:42-05:00",
+      "createdAt": "2026-11-01T11:00:29-05:00",
+      "updatedAt": "2026-11-14T15:24:49-05:00",
+      "categories": [
+        "hoodies",
+        "rooted-different"
+      ],
+      "description": [],
+      "style": [
+        "Port & Company PC78H Port & Company \u00ae - Core Fleece Pullover Hooded Sweatshirt. PC78H"
+      ],
+      "details": [
+        "7.8 oz.,",
+        "50% cotton / 50% poly fleece",
+        "Air jet yarn for softness"
+      ],
+      "sizeChart": {
+        "headers": [
+          "Size",
+          "Chest",
+          "Body length",
+          "Sleeve length"
+        ],
+        "rows": [
+          [
+            "S",
+            "20\"",
+            "28\"",
+            "34 1/8\""
+          ],
+          [
+            "M",
+            "22\"",
+            "29\"",
+            "35 1/8\""
+          ],
+          [
+            "L",
+            "24\"",
+            "30\"",
+            "36 1/8\""
+          ],
+          [
+            "XL",
+            "26\"",
+            "31\"",
+            "37 1/8\""
+          ],
+          [
+            "2XL",
+            "28\"",
+            "32\"",
+            "37 5/8\""
+          ],
+          [
+            "3XL",
+            "30\"",
+            "33\"",
+            "38 1/8\""
+          ],
+          [
+            "4XL",
+            "32\"",
+            "34\"",
+            "38 5/8\""
+          ]
+        ]
+      },
+      "colors": [
+        "White",
+        "Athletic Heather"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+      ],
+      "priceMin": 37.99,
+      "priceMax": 42.99,
+      "available": true,
+      "isNew": true,
+      "limited": false,
+      "images": [
+        {
+          "id": 43758574174298,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/rooted-different-white-hoodie-lifestyle-mockup.png?v=1794532757",
+          "alt": "",
+          "width": 1254,
+          "height": 1254,
+          "view": "lifestyle",
+          "colors": [
+            "White"
+          ]
+        },
+        {
+          "id": 43743860883546,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066541_570644_3495_FRONT.jpg?v=1794534993",
+          "alt": "",
+          "width": 1254,
+          "height": 1254,
+          "view": "front",
+          "colors": [
+            "White"
+          ]
+        },
+        {
+          "id": 43743860916314,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066542_570644_3495_BACK.jpg?v=1794534992",
+          "alt": "",
+          "width": 1254,
+          "height": 1254,
+          "view": "back",
+          "colors": [
+            "White"
+          ]
+        },
+        {
+          "id": 43743860949082,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066543_570644_02f7_FRONT.jpg?v=1794514600",
+          "alt": "",
+          "width": 3700,
+          "height": 3700,
+          "view": "front",
+          "colors": [
+            "Athletic Heather"
+          ]
+        },
+        {
+          "id": 43743860981850,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066544_570644_02f7_BACK.jpg?v=1794514599",
+          "alt": "",
+          "width": 3700,
+          "height": 3700,
+          "view": "back",
+          "colors": [
+            "Athletic Heather"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 68059147173978,
+          "title": "White / S",
+          "sku": "19g61mwdzmye7",
+          "color": "White",
+          "size": "S",
+          "price": 37.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066541_570644_3495_FRONT.jpg?v=1794534993"
+        },
+        {
+          "id": 68059147206746,
+          "title": "White / M",
+          "sku": "19g61mwdzmye8",
+          "color": "White",
+          "size": "M",
+          "price": 37.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066541_570644_3495_FRONT.jpg?v=1794534993"
+        },
+        {
+          "id": 68059147239514,
+          "title": "White / L",
+          "sku": "19g61mwdzmye9",
+          "color": "White",
+          "size": "L",
+          "price": 37.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066541_570644_3495_FRONT.jpg?v=1794534993"
+        },
+        {
+          "id": 68059147272282,
+          "title": "White / XL",
+          "sku": "19g61mwdzmyea",
+          "color": "White",
+          "size": "XL",
+          "price": 37.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066541_570644_3495_FRONT.jpg?v=1794534993"
+        },
+        {
+          "id": 68059147305050,
+          "title": "White / 2XL",
+          "sku": "19g61mwdzmyeb",
+          "color": "White",
+          "size": "2XL",
+          "price": 38.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066541_570644_3495_FRONT.jpg?v=1794534993"
+        },
+        {
+          "id": 68059147337818,
+          "title": "White / 3XL",
+          "sku": "19g61mwdzmyec",
+          "color": "White",
+          "size": "3XL",
+          "price": 39.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066541_570644_3495_FRONT.jpg?v=1794534993"
+        },
+        {
+          "id": 68059147370586,
+          "title": "White / 4XL",
+          "sku": "19g61mwdzmyed",
+          "color": "White",
+          "size": "4XL",
+          "price": 40.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066541_570644_3495_FRONT.jpg?v=1794534993"
+        },
+        {
+          "id": 68059147403354,
+          "title": "White / 5XL",
+          "sku": "19g61mwdzmyee",
+          "color": "White",
+          "size": "5XL",
+          "price": 41.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066541_570644_3495_FRONT.jpg?v=1794534993"
+        },
+        {
+          "id": 68059147436122,
+          "title": "White / 6XL",
+          "sku": "19g61mwdzmyef",
+          "color": "White",
+          "size": "6XL",
+          "price": 42.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066541_570644_3495_FRONT.jpg?v=1794534993"
+        },
+        {
+          "id": 68059147468890,
+          "title": "Athletic Heather / S",
+          "sku": "19g61mwdzmyeg",
+          "color": "Athletic Heather",
+          "size": "S",
+          "price": 37.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066543_570644_02f7_FRONT.jpg?v=1794514600"
+        },
+        {
+          "id": 68059147501658,
+          "title": "Athletic Heather / M",
+          "sku": "19g61mwdzmyeh",
+          "color": "Athletic Heather",
+          "size": "M",
+          "price": 37.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066543_570644_02f7_FRONT.jpg?v=1794514600"
+        },
+        {
+          "id": 68059147534426,
+          "title": "Athletic Heather / L",
+          "sku": "19g61mwdzmyei",
+          "color": "Athletic Heather",
+          "size": "L",
+          "price": 37.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066543_570644_02f7_FRONT.jpg?v=1794514600"
+        },
+        {
+          "id": 68059147567194,
+          "title": "Athletic Heather / XL",
+          "sku": "19g61mwdzmyej",
+          "color": "Athletic Heather",
+          "size": "XL",
+          "price": 37.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066543_570644_02f7_FRONT.jpg?v=1794514600"
+        },
+        {
+          "id": 68059147599962,
+          "title": "Athletic Heather / 2XL",
+          "sku": "19g61mwdzmyek",
+          "color": "Athletic Heather",
+          "size": "2XL",
+          "price": 38.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066543_570644_02f7_FRONT.jpg?v=1794514600"
+        },
+        {
+          "id": 68059147632730,
+          "title": "Athletic Heather / 3XL",
+          "sku": "19g61mwdzmyel",
+          "color": "Athletic Heather",
+          "size": "3XL",
+          "price": 39.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066543_570644_02f7_FRONT.jpg?v=1794514600"
+        },
+        {
+          "id": 68059147665498,
+          "title": "Athletic Heather / 4XL",
+          "sku": "19g61mwdzmyem",
+          "color": "Athletic Heather",
+          "size": "4XL",
+          "price": 40.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066543_570644_02f7_FRONT.jpg?v=1794514600"
+        }
+      ]
+    },
+    {
+      "id": 15476097384538,
+      "handle": "wen-moon",
+      "title": "Wen Moon Tee",
+      "url": "https://store.trenchchimps.com/products/wen-moon",
+      "vendor": "Treehouse Shop",
+      "productType": "",
+      "tags": [],
+      "publishedAt": "2026-11-12T15:15:35-05:00",
+      "createdAt": "2026-11-01T19:16:49-05:00",
+      "updatedAt": "2026-11-14T15:24:49-05:00",
+      "categories": [
+        "tees"
+      ],
+      "description": [
+        "An OG Trench Chimps design that is also a variation of the \"wen moon\" t-shirt in the NFT set."
+      ],
+      "style": [
+        "Jerzees 29M Adult 5.6 oz. 50/50 Blend T-Shirt"
+      ],
+      "details": [
+        "5.4 oz.,",
+        "50% cotton, 50% polyester",
+        "Oxford is 53% polyester, 47% cotton",
+        "Made with sustainably sourced USA grown cotton",
+        "Double-needle coverstitched front neck",
+        "Shoulder-to-Shoulder tape",
+        "Double-needle stitched hemmed sleeves and bottom",
+        "Seamless 1x1 rib collar",
+        "Seamless body for a wide printing area",
+        "Tear away label"
+      ],
+      "sizeChart": {
+        "headers": [
+          "Size",
+          "Body length",
+          "Full body length",
+          "Body width",
+          "Sleeve length"
+        ],
+        "rows": [
+          [
+            "S",
+            "28\"",
+            "28\"",
+            "18\"",
+            "16.75\""
+          ],
+          [
+            "M",
+            "29\"",
+            "29\"",
+            "20\"",
+            "17.75\""
+          ],
+          [
+            "L",
+            "30\"",
+            "30\"",
+            "22\"",
+            "18.75\""
+          ],
+          [
+            "XL",
+            "31\"",
+            "31\"",
+            "24\"",
+            "19.75\""
+          ],
+          [
+            "2XL",
+            "32\"",
+            "32\"",
+            "26\"",
+            "20.75\""
+          ],
+          [
+            "3XL",
+            "33\"",
+            "33\"",
+            "28\"",
+            "21.75\""
+          ],
+          [
+            "4XL",
+            "34\"",
+            "34\"",
+            "30\"",
+            "22.75\""
+          ],
+          [
+            "5XL",
+            "35\"",
+            "35\"",
+            "32\"",
+            "23.75\""
+          ]
+        ]
+      },
+      "colors": [
+        "White",
+        "Charcoal Grey"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "priceMin": 21.99,
+      "priceMax": 25.99,
+      "available": true,
+      "isNew": true,
+      "limited": false,
+      "images": [
+        {
+          "id": 43758442741850,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/wen-moon-tee-white-lifestyle-mockup.png?v=1794532476",
+          "alt": "",
+          "width": 1254,
+          "height": 1254,
+          "view": "lifestyle",
+          "colors": [
+            "White"
+          ]
+        },
+        {
+          "id": 43758402207834,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/wen-moon-tee-charcoal-grey-lifestyle-mockup.png?v=1794532325",
+          "alt": "",
+          "width": 1254,
+          "height": 1254,
+          "view": "lifestyle",
+          "colors": [
+            "Charcoal Grey"
+          ]
+        },
+        {
+          "id": 43743853477978,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066525_570596_00_FRONT.jpg?v=1794534994",
+          "alt": "",
+          "width": 1254,
+          "height": 1254,
+          "view": "front",
+          "colors": [
+            "White"
+          ]
+        },
+        {
+          "id": 43758385594458,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4073370_570596_46_FRONT.jpg?v=1794532236",
+          "alt": "",
+          "width": 3200,
+          "height": 3200,
+          "view": "front",
+          "colors": [
+            "Charcoal Grey"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 68059125809242,
+          "title": "White / S",
+          "sku": "19g61mwdzllmf",
+          "color": "White",
+          "size": "S",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066525_570596_00_FRONT.jpg?v=1794534994"
+        },
+        {
+          "id": 68059125842010,
+          "title": "White / M",
+          "sku": "19g61mwdzllmg",
+          "color": "White",
+          "size": "M",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066525_570596_00_FRONT.jpg?v=1794534994"
+        },
+        {
+          "id": 68059125874778,
+          "title": "White / L",
+          "sku": "19g61mwdzllmh",
+          "color": "White",
+          "size": "L",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066525_570596_00_FRONT.jpg?v=1794534994"
+        },
+        {
+          "id": 68059125907546,
+          "title": "White / XL",
+          "sku": "19g61mwdzllmi",
+          "color": "White",
+          "size": "XL",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066525_570596_00_FRONT.jpg?v=1794534994"
+        },
+        {
+          "id": 68059125940314,
+          "title": "White / 2XL",
+          "sku": "19g61mwdzllmj",
+          "color": "White",
+          "size": "2XL",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066525_570596_00_FRONT.jpg?v=1794534994"
+        },
+        {
+          "id": 68059125973082,
+          "title": "White / 3XL",
+          "sku": "19g61mwdzllmk",
+          "color": "White",
+          "size": "3XL",
+          "price": 23.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066525_570596_00_FRONT.jpg?v=1794534994"
+        },
+        {
+          "id": 68059126005850,
+          "title": "White / 4XL",
+          "sku": "19g61mwdzllml",
+          "color": "White",
+          "size": "4XL",
+          "price": 24.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066525_570596_00_FRONT.jpg?v=1794534994"
+        },
+        {
+          "id": 68059126038618,
+          "title": "White / 5XL",
+          "sku": "19g61mwdzllmm",
+          "color": "White",
+          "size": "5XL",
+          "price": 25.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066525_570596_00_FRONT.jpg?v=1794534994"
+        },
+        {
+          "id": 68061830774874,
+          "title": "Charcoal Grey / S",
+          "sku": "19g61mwe92emr",
+          "color": "Charcoal Grey",
+          "size": "S",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4073370_570596_46_FRONT.jpg?v=1794532236"
+        },
+        {
+          "id": 68061830807642,
+          "title": "Charcoal Grey / M",
+          "sku": "19g61mwe92ems",
+          "color": "Charcoal Grey",
+          "size": "M",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4073370_570596_46_FRONT.jpg?v=1794532236"
+        },
+        {
+          "id": 68061830840410,
+          "title": "Charcoal Grey / L",
+          "sku": "19g61mwe92emt",
+          "color": "Charcoal Grey",
+          "size": "L",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4073370_570596_46_FRONT.jpg?v=1794532236"
+        },
+        {
+          "id": 68061830873178,
+          "title": "Charcoal Grey / XL",
+          "sku": "19g61mwe92emu",
+          "color": "Charcoal Grey",
+          "size": "XL",
+          "price": 21.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4073370_570596_46_FRONT.jpg?v=1794532236"
+        },
+        {
+          "id": 68061830905946,
+          "title": "Charcoal Grey / 2XL",
+          "sku": "19g61mwe92emv",
+          "color": "Charcoal Grey",
+          "size": "2XL",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4073370_570596_46_FRONT.jpg?v=1794532236"
+        },
+        {
+          "id": 68061830938714,
+          "title": "Charcoal Grey / 3XL",
+          "sku": "19g61mwe92emw",
+          "color": "Charcoal Grey",
+          "size": "3XL",
+          "price": 23.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4073370_570596_46_FRONT.jpg?v=1794532236"
+        },
+        {
+          "id": 68061830971482,
+          "title": "Charcoal Grey / 4XL",
+          "sku": "19g61mwe92emx",
+          "color": "Charcoal Grey",
+          "size": "4XL",
+          "price": 24.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4073370_570596_46_FRONT.jpg?v=1794532236"
+        },
+        {
+          "id": 68061831004250,
+          "title": "Charcoal Grey / 5XL",
+          "sku": "19g61mwe92emy",
+          "color": "Charcoal Grey",
+          "size": "5XL",
+          "price": 25.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4073370_570596_46_FRONT.jpg?v=1794532236"
+        }
+      ]
+    },
+    {
+      "id": 15475765477466,
+      "handle": "black-tc-tee",
+      "title": "TC Tee",
+      "url": "https://store.trenchchimps.com/products/black-tc-tee",
+      "vendor": "Treehouse Shop",
+      "productType": "",
+      "tags": [],
+      "publishedAt": "2026-11-12T15:14:15-05:00",
+      "createdAt": "2026-11-01T11:00:10-05:00",
+      "updatedAt": "2026-11-14T15:24:49-05:00",
+      "categories": [
+        "tees"
+      ],
+      "description": [],
+      "style": [
+        "Next Level Apparel N6210 Men's CVC Crew"
+      ],
+      "details": [
+        "4.3 oz.,",
+        "60% combed ringspun cotton/ 40% polyester jersey",
+        "Colors have a slightly heathered look",
+        "Pre-shrunk for reduced shrinkage",
+        "CVC blend",
+        "1x1 baby rib-knit set-in collar",
+        "Shoulder to shoulder taping",
+        "Tear-away label",
+        "Side seamed"
+      ],
+      "sizeChart": {
+        "headers": [
+          "Size",
+          "Front body length",
+          "Body length",
+          "Body width",
+          "Sleeve length"
+        ],
+        "rows": [
+          [
+            "XS",
+            "27\"",
+            "27\"",
+            "17\"",
+            "7.125\""
+          ],
+          [
+            "S",
+            "28\"",
+            "28\"",
+            "19\"",
+            "7.625\""
+          ],
+          [
+            "M",
+            "28\"",
+            "29\"",
+            "20.5\"",
+            "8.125\""
+          ],
+          [
+            "L",
+            "30\"",
+            "30\"",
+            "22\"",
+            "8.625\""
+          ],
+          [
+            "XL",
+            "31\"",
+            "31\"",
+            "24\"",
+            "9.125\""
+          ],
+          [
+            "2XL",
+            "32\"",
+            "32\"",
+            "26\"",
+            "9.625\""
+          ],
+          [
+            "3XL",
+            "33\"",
+            "33\"",
+            "28\"",
+            "10.125\""
+          ],
+          [
+            "4XL",
+            "34\"",
+            "34\"",
+            "30\"",
+            "10.625\""
+          ],
+          [
+            "5XL",
+            "35\"",
+            "35\"",
+            "32\"",
+            "11.125\""
+          ],
+          [
+            "6XL",
+            "36\"",
+            "36\"",
+            "34\"",
+            "11.625\""
+          ]
+        ]
+      },
+      "colors": [
+        "Black",
+        "Midnight Navy",
+        "Heather Heavy Metal"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL"
+      ],
+      "priceMin": 22.99,
+      "priceMax": 27.99,
+      "available": true,
+      "isNew": true,
+      "limited": false,
+      "images": [
+        {
+          "id": 43743899910234,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/black-tc-tee-lifestyle-mockup.png?v=1794514996",
+          "alt": "",
+          "width": 1254,
+          "height": 1254,
+          "view": "lifestyle",
+          "colors": [
+            "Black"
+          ]
+        },
+        {
+          "id": 43417423020122,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3475865_570676_30_FRONT.jpg?v=1793548817",
+          "alt": "",
+          "width": 3200,
+          "height": 3200,
+          "view": "front",
+          "colors": [
+            "Black"
+          ]
+        },
+        {
+          "id": 43743837618266,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066499_570676_31_FRONT.jpg?v=1794514453",
+          "alt": "",
+          "width": 3200,
+          "height": 3200,
+          "view": "front",
+          "colors": [
+            "Midnight Navy"
+          ]
+        },
+        {
+          "id": 43758643576922,
+          "src": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074380_570676_58_FRONT.jpg?v=1794533018",
+          "alt": "",
+          "width": 3200,
+          "height": 3200,
+          "view": "front",
+          "colors": [
+            "Heather Heavy Metal"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": 67931725660250,
+          "title": "Black / XS",
+          "sku": "19g61mvqwwpso",
+          "color": "Black",
+          "size": "XS",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3475865_570676_30_FRONT.jpg?v=1793548817"
+        },
+        {
+          "id": 67931725693018,
+          "title": "Black / S",
+          "sku": "19g61mvqwwpsp",
+          "color": "Black",
+          "size": "S",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3475865_570676_30_FRONT.jpg?v=1793548817"
+        },
+        {
+          "id": 67931725725786,
+          "title": "Black / M",
+          "sku": "19g61mvqwwpsq",
+          "color": "Black",
+          "size": "M",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3475865_570676_30_FRONT.jpg?v=1793548817"
+        },
+        {
+          "id": 67931725758554,
+          "title": "Black / L",
+          "sku": "19g61mvqwwpsr",
+          "color": "Black",
+          "size": "L",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3475865_570676_30_FRONT.jpg?v=1793548817"
+        },
+        {
+          "id": 67931725791322,
+          "title": "Black / XL",
+          "sku": "19g61mvqwwpss",
+          "color": "Black",
+          "size": "XL",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3475865_570676_30_FRONT.jpg?v=1793548817"
+        },
+        {
+          "id": 67931725824090,
+          "title": "Black / 2XL",
+          "sku": "19g61mvqwwpst",
+          "color": "Black",
+          "size": "2XL",
+          "price": 23.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3475865_570676_30_FRONT.jpg?v=1793548817"
+        },
+        {
+          "id": 67931725856858,
+          "title": "Black / 3XL",
+          "sku": "19g61mvqwwpsu",
+          "color": "Black",
+          "size": "3XL",
+          "price": 24.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3475865_570676_30_FRONT.jpg?v=1793548817"
+        },
+        {
+          "id": 67931725889626,
+          "title": "Black / 4XL",
+          "sku": "19g61mvqwwpsv",
+          "color": "Black",
+          "size": "4XL",
+          "price": 25.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3475865_570676_30_FRONT.jpg?v=1793548817"
+        },
+        {
+          "id": 67931725922394,
+          "title": "Black / 5XL",
+          "sku": "19g61mvqwwpsw",
+          "color": "Black",
+          "size": "5XL",
+          "price": 26.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3475865_570676_30_FRONT.jpg?v=1793548817"
+        },
+        {
+          "id": 67931725955162,
+          "title": "Black / 6XL",
+          "sku": "19g61mvqwwpsx",
+          "color": "Black",
+          "size": "6XL",
+          "price": 27.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_3475865_570676_30_FRONT.jpg?v=1793548817"
+        },
+        {
+          "id": 68059098415194,
+          "title": "Midnight Navy / XS",
+          "sku": "19g61mwdzjcpf",
+          "color": "Midnight Navy",
+          "size": "XS",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066499_570676_31_FRONT.jpg?v=1794514453"
+        },
+        {
+          "id": 68059098447962,
+          "title": "Midnight Navy / S",
+          "sku": "19g61mwdzjcpg",
+          "color": "Midnight Navy",
+          "size": "S",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066499_570676_31_FRONT.jpg?v=1794514453"
+        },
+        {
+          "id": 68059098480730,
+          "title": "Midnight Navy / M",
+          "sku": "19g61mwdzjcph",
+          "color": "Midnight Navy",
+          "size": "M",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066499_570676_31_FRONT.jpg?v=1794514453"
+        },
+        {
+          "id": 68059098513498,
+          "title": "Midnight Navy / L",
+          "sku": "19g61mwdzjcpi",
+          "color": "Midnight Navy",
+          "size": "L",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066499_570676_31_FRONT.jpg?v=1794514453"
+        },
+        {
+          "id": 68059098546266,
+          "title": "Midnight Navy / XL",
+          "sku": "19g61mwdzjcpj",
+          "color": "Midnight Navy",
+          "size": "XL",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066499_570676_31_FRONT.jpg?v=1794514453"
+        },
+        {
+          "id": 68059098579034,
+          "title": "Midnight Navy / 2XL",
+          "sku": "19g61mwdzjcpk",
+          "color": "Midnight Navy",
+          "size": "2XL",
+          "price": 23.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066499_570676_31_FRONT.jpg?v=1794514453"
+        },
+        {
+          "id": 68059098611802,
+          "title": "Midnight Navy / 3XL",
+          "sku": "19g61mwdzjcpl",
+          "color": "Midnight Navy",
+          "size": "3XL",
+          "price": 24.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066499_570676_31_FRONT.jpg?v=1794514453"
+        },
+        {
+          "id": 68059098644570,
+          "title": "Midnight Navy / 4XL",
+          "sku": "19g61mwdzjcpm",
+          "color": "Midnight Navy",
+          "size": "4XL",
+          "price": 25.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066499_570676_31_FRONT.jpg?v=1794514453"
+        },
+        {
+          "id": 68059098677338,
+          "title": "Midnight Navy / 5XL",
+          "sku": "19g61mwdzjcpn",
+          "color": "Midnight Navy",
+          "size": "5XL",
+          "price": 26.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066499_570676_31_FRONT.jpg?v=1794514453"
+        },
+        {
+          "id": 68059098710106,
+          "title": "Midnight Navy / 6XL",
+          "sku": "19g61mwdzjcpo",
+          "color": "Midnight Navy",
+          "size": "6XL",
+          "price": 27.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4066499_570676_31_FRONT.jpg?v=1794514453"
+        },
+        {
+          "id": 68061903192154,
+          "title": "Heather Heavy Metal / XS",
+          "sku": "19g61mweal46w",
+          "color": "Heather Heavy Metal",
+          "size": "XS",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074380_570676_58_FRONT.jpg?v=1794533018"
+        },
+        {
+          "id": 68061903224922,
+          "title": "Heather Heavy Metal / S",
+          "sku": "19g61mweal46x",
+          "color": "Heather Heavy Metal",
+          "size": "S",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074380_570676_58_FRONT.jpg?v=1794533018"
+        },
+        {
+          "id": 68061903257690,
+          "title": "Heather Heavy Metal / M",
+          "sku": "19g61mweal46y",
+          "color": "Heather Heavy Metal",
+          "size": "M",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074380_570676_58_FRONT.jpg?v=1794533018"
+        },
+        {
+          "id": 68061903290458,
+          "title": "Heather Heavy Metal / L",
+          "sku": "19g61mweal46z",
+          "color": "Heather Heavy Metal",
+          "size": "L",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074380_570676_58_FRONT.jpg?v=1794533018"
+        },
+        {
+          "id": 68061903323226,
+          "title": "Heather Heavy Metal / XL",
+          "sku": "19g61mweal470",
+          "color": "Heather Heavy Metal",
+          "size": "XL",
+          "price": 22.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074380_570676_58_FRONT.jpg?v=1794533018"
+        },
+        {
+          "id": 68061903355994,
+          "title": "Heather Heavy Metal / 2XL",
+          "sku": "19g61mweal471",
+          "color": "Heather Heavy Metal",
+          "size": "2XL",
+          "price": 23.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074380_570676_58_FRONT.jpg?v=1794533018"
+        },
+        {
+          "id": 68061903388762,
+          "title": "Heather Heavy Metal / 3XL",
+          "sku": "19g61mweal472",
+          "color": "Heather Heavy Metal",
+          "size": "3XL",
+          "price": 24.99,
+          "compareAt": null,
+          "available": true,
+          "image": "https://cdn.shopify.com/s/files/1/0773/4689/8010/files/ninjapod_media_4074380_570676_58_FRONT.jpg?v=1794533018"
+        }
+      ]
+    }
+  ]
+}
